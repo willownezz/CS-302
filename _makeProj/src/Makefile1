@@ -1,0 +1,14 @@
+#/--------------------------------------------------------------------------------------/#
+#/ File Name : Makefile                                                                 /#
+#/ Version   : 1                                                                        /#
+#/ Author    : Luiz Diego Garcia                                                        /#
+#/                                                                                      /#
+#/ Compiler  : Ubuntu 16.04 - GCC 5.4                                                   /#
+#/                                                                                      /#
+#/                                                                                      /#
+#/                                                                                      /#
+#/                                                                                      /#
+#/--------------------------------------------------------------------------------------/#
+
+hellomake: hellomake.c hellofunc.c
+	gcc -o hellomake hellomake.c hellofunc.c -I.
