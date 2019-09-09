@@ -1,0 +1,3 @@
+/mnt/c/Users/luizd/Desktop/Ubn16-04/_testCMake/CMakeFiles/edit_cache.dir
+/mnt/c/Users/luizd/Desktop/Ubn16-04/_testCMake/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/luizd/Desktop/Ubn16-04/_testCMake/CMakeFiles/_testCMake.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/luizd/Desktop/Ubn16-04/_testCMake2/functions.h
+
+/mnt/c/Users/luizd/Desktop/Ubn16-04/_testCMake2/main.cpp
+iostream
+-
+functions.h
+/mnt/c/Users/luizd/Desktop/Ubn16-04/_testCMake2/functions.h
+

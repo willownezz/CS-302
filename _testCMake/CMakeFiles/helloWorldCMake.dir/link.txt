@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++14 -g   CMakeFiles/helloWorldCMake.dir/main.cpp.o  -o helloWorldCMake -rdynamic 
